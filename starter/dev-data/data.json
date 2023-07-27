@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Taza Avocados",
+    "image": "🥑",
+    "from": "Jamnapar",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4",
+    "price": "150",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle. Mahenga fal saste mei."
+  },
+  {
+    "id": 1,
+    "productName": "Momos Cheese",
+    "image": "🧀",
+    "from": "Why not Momos",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "500.00",
+    "organic": false,
+    "description": "Creamy and distinct in flavor. Orignal taste of streets, like literaly the taste of streets... and mud ofc."
+  },
+  {
+    "id": 2,
+    "productName": "Mutated Gobhi",
+    "image": "🥦",
+    "from": "a FISHY place",
+    "nutrients": "Vitamin C, Vitamin Z",
+    "quantity": "3 ",
+    "price": "999.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable. Same taste different price and colour."
+  },
+  {
+    "id": 3,
+    "productName": "Laal Gajar",
+    "image": "🥕",
+    "from": "Mangliya",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "1 ",
+    "price": "30.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable. Halwe ka material hai, pura thela laal hai."
+  },
+  {
+    "id": 4,
+    "productName": "American Corn",
+    "image": "🌽",
+    "from": "Amazon, U.P.",
+    "nutrients": "Vitamin C, Magnesium, Barish ki Yaddien",
+    "quantity": "2 ",
+    "price": "100.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world, aur barish mei zada."
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "node-farm-by-daksh",
+  "version": "1.0.0",
+  "description": "This is a very basic Node js project made in July",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Daksh kitukale",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
